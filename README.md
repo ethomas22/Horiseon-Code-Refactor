@@ -1,7 +1,6 @@
 # Horiseon Code Refactor
 ## Description
 <br>
-<br>
 ![Horiseon](https://raw.githubusercontent.com/ethomas22/Horiseon-Code-Refactor/main/assets/images/horiseon.png)
 <br>
 Horiseon focuses on SEO and lead generation.  Their webiste highlights the three areas they focus on most.
