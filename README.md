@@ -1,8 +1,8 @@
 # Horiseon Code Refactor
 ## Description
-<br>
 ![Horiseon](https://raw.githubusercontent.com/ethomas22/Horiseon-Code-Refactor/main/assets/images/horiseon.png)
 <br>
+
 Horiseon focuses on SEO and lead generation.  Their webiste highlights the three areas they focus on most.
 I was able to look at the code they had in place for their site, and refactor it.
 The first change I made was making sure the header was added and then made sure the navigation bar was specified within the header.
